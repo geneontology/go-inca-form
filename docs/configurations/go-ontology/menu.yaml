@@ -1,0 +1,38 @@
+defaultPatterns:
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/activator_activity.yaml
+    title: activator_activity.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/anchored_membrane_component.yaml
+    title: anchored_membrane_component.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/bounding_membrane_of_organelle.yaml
+    title: bounding_membrane_of_organelle.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/chromosomal_region.yaml
+    title: chromosomal_region.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/envenomation.yaml
+    title: envenomation.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/export_across_membrane.yaml
+    title: export_across_membrane.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/extrinsic_membrane_component.yaml
+    title: extrinsic_membrane_component.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/import_across_membrane.yaml
+    title: import_across_membrane.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/import_across_plasma_membrane.yaml
+    title: import_across_plasma_membrane.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/import_into_cell.yaml
+    title: import_into_cell.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/inhibitor_activity.yaml
+    title: inhibitor_activity.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/integral_membrane_component.yaml
+    title: integral_membrane_component.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/intrinsic_membrane_component.yaml
+    title: intrinsic_membrane_component.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/membrane_region.yaml
+    title: membrane_region.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/membrane_spanning_component.yaml
+    title: membrane_spanning_component.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/regulator_activity.yaml
+    title: regulator_activity.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/transmembrane_import_into_cell.yaml
+    title: transmembrane_import_into_cell.yaml
+
+defaultXSVs:
+

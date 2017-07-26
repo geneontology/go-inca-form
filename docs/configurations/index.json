@@ -1,0 +1,8 @@
+{
+  "configNames": [
+    "go-ontology"
+  ],
+  "logoImage": "INCA.png",
+  "baseURL": "/go-inca-form/",
+  "title": "Gene Ontology INCA Form"
+}
