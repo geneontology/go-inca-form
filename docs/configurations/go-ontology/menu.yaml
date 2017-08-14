@@ -5,10 +5,24 @@ defaultPatterns:
     title: anchored_membrane_component.yaml
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/bounding_membrane_of_organelle.yaml
     title: bounding_membrane_of_organelle.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/cc_assembly.yaml
+    title: cc_assembly.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/cc_disassembly.yaml
+    title: cc_disassembly.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/cc_organization.yaml
+    title: cc_organization.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/cc_transport.yaml
+    title: cc_transport.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/cc_transport_from_to.yaml
+    title: cc_transport_from_to.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/chemical_transport.yaml
+    title: chemical_transport.yaml
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/chromosomal_region.yaml
     title: chromosomal_region.yaml
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/envenomation.yaml
     title: envenomation.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/establishment_of_protein_localization_to.yaml
+    title: establishment_of_protein_localization_to.yaml
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/export_across_membrane.yaml
     title: export_across_membrane.yaml
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/extrinsic_membrane_component.yaml
@@ -25,14 +39,52 @@ defaultPatterns:
     title: integral_membrane_component.yaml
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/intrinsic_membrane_component.yaml
     title: intrinsic_membrane_component.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/involved_in_x_y.yaml
+    title: involved_in_x_y.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/macromolecular_complex_binding.yaml
+    title: macromolecular_complex_binding.yaml
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/membrane_region.yaml
     title: membrane_region.yaml
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/membrane_spanning_component.yaml
     title: membrane_spanning_component.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/multi_organism_process.yaml
+    title: multi_organism_process.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/negative_regulation.yaml
+    title: negative_regulation.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/occursIn.yaml
+    title: occursIn.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/part_of_cell_component.yaml
+    title: part_of_cell_component.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/positive_regulation.yaml
+    title: positive_regulation.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/prefixes.yaml
+    title: prefixes.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/protein_complex_by_activity.yaml
+    title: protein_complex_by_activity.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/protein_localization_to.yaml
+    title: protein_localization_to.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/regulation.yaml
+    title: regulation.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/regulation_by.yaml
+    title: regulation_by.yaml
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/regulator_activity.yaml
     title: regulator_activity.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/single_organism_process.yaml
+    title: single_organism_process.yaml
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/transmembrane_import_into_cell.yaml
     title: transmembrane_import_into_cell.yaml
-
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/vesicle_mediated_transport.yaml
+    title: vesicle_mediated_transport.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/vesicle_mediated_transport_from_to.yaml
+    title: vesicle_mediated_transport_from_to.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/x_development.yaml
+    title: x_development.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/x_formation.yaml
+    title: x_formation.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/x_maturation.yaml
+    title: x_maturation.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/x_morphogenesis.yaml
+    title: x_morphogenesis.yaml
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/x_structural_organization.yaml
+    title: x_structural_organization.yaml
 defaultXSVs:
-
