@@ -88,3 +88,21 @@ defaultPatterns:
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/x_structural_organization.yaml
     title: x_structural_organization.yaml
 defaultXSVs:
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/activator_activity.tsv
+    title: activator_activity.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/bounding_membrane_of_organelle.tsv
+    title: bounding_membrane_of_organelle.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/cc_assembly.tsv
+    title: cc_assembly.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/cc_disassembly.tsv
+    title: cc_disassembly.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/cc_organization.tsv
+    title: cc_organization.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/cc_transport.tsv
+    title: cc_transport.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/chemical_transport.tsv
+    title: chemical_transport.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/envenomation.tsv
+    title: envenomation.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/regulation.tsv
+    title: regulation.tsv
