@@ -3,7 +3,7 @@ my @files = split(/\n/,`ls $ENV{HOME}/repos/go-ontology/src/design_patterns/*yam
 print "defaultPatterns:\n";
 foreach (@files) {
     s@.*/@@;
-    print "  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/validated_patterns/$_\n";
+    print "  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/$_\n";
     print "    title: $_\n";
 }
 print "defaultXSVs:\n";
