@@ -104,5 +104,43 @@ defaultXSVs:
     title: chemical_transport.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/envenomation.tsv
     title: envenomation.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/inhibitor_activity.tsv
+    title: inhibitor_activity.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/involved_in_x_y.tsv
+    title: involved_in_x_y.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/macromolecular_complex_binding.tsv
+    title: macromolecular_complex_binding.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/membrane_region.tsv
+    title: membrane_region.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/membrane_spanning_component.tsv
+    title: membrane_spanning_component.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/multi_organism_process.tsv
+    title: multi_organism_process.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/negative_regulation.tsv
+    title: negative_regulation.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/occursIn.tsv
+    title: occursIn.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/part_of_cell_component.tsv
+    title: part_of_cell_component.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/positive_regulation.tsv
+    title: positive_regulation.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/protein_complex_by_activity.tsv
+    title: protein_complex_by_activity.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/regulation.tsv
     title: regulation.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/regulation_by.tsv
+    title: regulation_by.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/regulator_activity.tsv
+    title: regulator_activity.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/single_organism_process.tsv
+    title: single_organism_process.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/x_development.tsv
+    title: x_development.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/x_formation.tsv
+    title: x_formation.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/x_maturation.tsv
+    title: x_maturation.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/x_morphogenesis.tsv
+    title: x_morphogenesis.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/x_structural_organization.tsv
+    title: x_structural_organization.tsv
