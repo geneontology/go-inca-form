@@ -100,10 +100,16 @@ defaultXSVs:
     title: cc_organization.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/cc_transport.tsv
     title: cc_transport.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/cc_transport_from_to.tsv
+    title: cc_transport_from_to.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/chemical_transport.tsv
     title: chemical_transport.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/chromosomal_region.tsv
+    title: chromosomal_region.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/envenomation.tsv
     title: envenomation.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/establishment_of_protein_localization_to.tsv
+    title: establishment_of_protein_localization_to.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/inhibitor_activity.tsv
     title: inhibitor_activity.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/involved_in_x_y.tsv
@@ -134,6 +140,10 @@ defaultXSVs:
     title: regulator_activity.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/single_organism_process.tsv
     title: single_organism_process.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/vesicle_mediated_transport.tsv
+    title: vesicle_mediated_transport.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/vesicle_mediated_transport_from_to.tsv
+    title: vesicle_mediated_transport_from_to.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/x_development.tsv
     title: x_development.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/x_formation.tsv
