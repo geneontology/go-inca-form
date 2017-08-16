@@ -110,6 +110,8 @@ defaultXSVs:
     title: envenomation.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/establishment_of_protein_localization_to.tsv
     title: establishment_of_protein_localization_to.tsv
+  - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/import_across_plasma_membrane.tsv
+    title: import_across_plasma_membrane.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/inhibitor_activity.tsv
     title: inhibitor_activity.tsv
   - url: https://raw.githubusercontent.com/geneontology/go-ontology/master/src/design_patterns/involved_in_x_y.tsv
